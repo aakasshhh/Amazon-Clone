@@ -24,6 +24,6 @@ Credits: The project utilizes HTML and CSS for the front-end design.
 ![Screenshot 2024-01-04 125407](https://github.com/aakasshhh/Amazon-clone/assets/118706951/261b29af-633b-4bdb-87e4-dff38ff7dc55)
 
 
-Contact Information: For any questions or feedback, feel free to reach out at Email: aakashjainonline18@gmail.com or linkedin: https://www.linkedin.com/feed/
+Contact Information: For any questions or feedback, feel free to reach out at Email: aakashjainonline18@gmail.com or linkedin: https://www.linkedin.com/in/aakash-jain-bb7336254/
 
 Contribution Guidelines: If you'd like to contribute to this project, please refer to the guidelines in the CONTRIBUTING.md file.
