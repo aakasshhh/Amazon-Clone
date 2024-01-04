@@ -1,4 +1,4 @@
-# "Amazon Clone Project"
+# Amazon Clone Project
 
 Description: This project is an Amazon clone created using HTML and CSS to replicate the design and functionality of the Amazon e-commerce website.
 
