@@ -13,8 +13,8 @@ To run this project locally, clone the repository and open the index.html file i
 Usage:
 Explore the various features of the Amazon clone, including browsing products and simulating a user login. 
 
-Screenshots: [Include screenshots of your project here]
-
+Preview <br>
+"C:\Users\aakas\OneDrive\Pictures\Screenshots\Screenshot 2024-01-04 125346.png"
 Credits: 
 The project utilizes HTML and CSS for the front-end design.
 
